@@ -1,0 +1,19 @@
+{
+    "name": "halipso/php-steam-tradeoffers",
+    "description": "Trade Offer Class for Php",
+    "type": "library",
+    "license": "None",
+    "authors": [
+        {
+            "name": "centrual",
+            "email": "centrual@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+		"files": [
+			"classes/steam.class.php"
+		]
+	}
+}
